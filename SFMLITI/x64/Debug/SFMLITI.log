@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\source\repos\SFMLITI\Source.cpp(9,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\source\repos\SFMLITI\Source.cpp(535,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+E:\source\repos\SFMLITI\Source.cpp(543,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+E:\source\repos\SFMLITI\Source.cpp(545,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  SFMLITI.vcxproj -> E:\source\repos\SFMLITI\x64\Debug\SFMLITI.exe
